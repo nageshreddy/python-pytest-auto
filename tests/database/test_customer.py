@@ -4,8 +4,8 @@ import pytest
 # Database connection config
 DB_CONFIG = {
     'dbname': 'mydb',         # Your DB name
-    'user': 'postgres',          # Your username
-    'password': 'ayrareddy', # Your password
+    'user': 'admin',          # Your username
+    'password': 'adminpass', # Your password
     'host': 'localhost',
     'port': '5432'
 }
