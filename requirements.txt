@@ -1,0 +1,8 @@
+pytest~=8.3.5
+psycopg2-binary~=2.9.10
+sqlalchemy  # if you're using it
+
+pandas~=2.2.3
+requests~=2.32.3
+Faker~=37.1.0
+pytest-bdd~=8.1.0

@@ -8,7 +8,10 @@
 
 ✅ Run locally:
 docker-compose up -d
-pytest -v
+pytest -v 
+
+docker-compose up --build --abort-on-container-exit
+
 
 🔑 Benefits of this Setup:
 ✅ Separation of concerns (data/db/logs).
